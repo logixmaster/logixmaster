@@ -1,5 +1,5 @@
-## Hello there! 
-## I'm Mamun Abdullah (theTradeCoder) 👋
+## Hello there! 👋
+## I'm Mamun Abdullah (theTradeCoder) 
 ### A Full Stack JavaScript Developer from Dhaka, Bangladesh
 <!--
 **thetradecoder/thetradecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
