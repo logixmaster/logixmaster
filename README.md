@@ -1,4 +1,4 @@
-## Hi! 
+## Hello there! 
 ## I'm Mamun Abdullah (theTradeCoder) 👋
 ### A Full Stack JavaScript Developer from Dhaka, Bangladesh
 <!--
