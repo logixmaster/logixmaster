@@ -1,4 +1,4 @@
 # Hi there! 👋
 ### I am Mamun Abdullah. I am a Full Stack JavaScript Developer. 
-#### I build Websites, Mobile Apps
+#### I build Websites and Mobile Apps
 
