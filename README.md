@@ -30,9 +30,10 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 ✔ Node.js, Express.js, React.js, MongoDB <br/>
 ✔ APIs & Microservices <br/>
 ✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
-✔ Information Security (Passport.js) <br/>
-✔ Quality Assurance (Chai.js) <br/>
-✔ Data Visualizaton (D3.js) <br/>
+✔ Chai.js, Passport.js, D3.js <br/>
+✔ Information Security <br/>
+✔ Quality Assurance<br/>
+✔ Data Visualizaton<br/>
 ✔ Git, GitHub
 
 ------------------------------------------------------------------------------------------
