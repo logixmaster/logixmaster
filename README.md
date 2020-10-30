@@ -27,7 +27,7 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 ✔ Website Page Builder (Divi, Elementor) <br/>
 
 ------------------------------------------------------------------------------------------
-✔ Node.js, Express.js, React.js, MongoDB (MERN Stack) <br/>
+✔ Node.js, Express.js, React.js, MongoDB <br/>
 ✔ APIs & Microservices <br/>
 ✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
 ✔ Information Security (Passport.js) <br/>
