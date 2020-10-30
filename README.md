@@ -4,7 +4,7 @@ I lvoe to work with MERN stack and extremely like Reactjs
 
 And WordPress is my topmost choice to build websites with Divi and Elementor 
 
-# ✦ My Services ✦
+## ✦ My Services ✦
 
 ✔ Full Stack Web Development <br/>
 ✔ WordPress Website Development <br/>
@@ -20,7 +20,7 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 ----------------------------------------------------------------------------------------
 
 
-# ✦ My Top Skills ✦
+## ✦ My Top Skills ✦
 
 ✔ WordPress, PHP, MySQL, WooCommerce <br/>
 ✔ WordPress Website Security & Firewall <br/>
