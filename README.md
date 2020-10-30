@@ -6,41 +6,36 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 
 ✦ MY SERVICES ✦
 --------------------------------------------------------------------------------------
-✔ Full Stack Web Development
-✔ WordPress Website Development
-✔ WooCommerce, eCommerce Development
-✔ Website Security Management
-✔ WordPress Site Migration
-✔ Partial Script Writing (JS and PHP)
-✔ Bug fixing (JS and PHP)
-✔ Domain and Hosting Configuration
-✔ Graphic Design, Logo Design, Photo Editing
-✔ Content writing (English)
+✔ Full Stack Web Development <br/>
+✔ WordPress Website Development <br/>
+✔ WooCommerce, eCommerce Development <br/>
+✔ Website Security Management <br/>
+✔ WordPress Site Migration <br/>
+✔ Partial Script Writing (JS and PHP) <br/>
+✔ Bug fixing (JS and PHP) <br/>
+✔ Domain and Hosting Configuration <br/>
+✔ Graphic Design, Logo Design, Photo Editing <br/>
+✔ Content writing (English) <br/>
+
 ----------------------------------------------------------------------------------------
 
 
 ✦ MY TOP SKILLS ✦
 -----------------------------------------------------------------------------------------
-✔ WordPress, PHP, MySQL, WooCommerce
-✔ WordPress Website Security & Firewall
-✔ Website Page Builder (Divi, Elementor)
+✔ WordPress, PHP, MySQL, WooCommerce <br/>
+✔ WordPress Website Security & Firewall <br/>
+✔ Website Page Builder (Divi, Elementor) <br/>
+
 ------------------------------------------------------------------------------------------
-✔ React.js, Node.js, Express.js, MongoDB (MERN Stack)
-✔ APIs & Microservices
-✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript
-✔ Information Security (Passport.js)
-✔ Quality Assurance (Chai.js)
+✔ React.js, Node.js, Express.js, MongoDB (MERN Stack) <br/>
+✔ APIs & Microservices <br/>
+✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
+✔ Information Security (Passport.js) <br/>
+✔ Quality Assurance (Chai.js) <br/>
 ✔ Git, GitHub
+
 ------------------------------------------------------------------------------------------
 ✔ Photoshop, and Illustrator.
-------------------------------------------------------------------------------------------
 
-
-✦ I AM COMMITTED TO PROVIDE ✦
 ------------------------------------------------------------------------------------------
-✔ On time project delivery
-✔ High quality service
-✔ High satisfaction
-------------------------------------------------------------------------------------------
-
 
