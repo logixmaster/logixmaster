@@ -32,7 +32,7 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 ✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
 ✔ Information Security (Passport.js) <br/>
 ✔ Quality Assurance (Chai.js) <br/>
-✔ Data Visualizaton (d3.js) <br/>
+✔ Data Visualizaton (D3.js) <br/>
 ✔ Git, GitHub
 
 ------------------------------------------------------------------------------------------
