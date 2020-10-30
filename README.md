@@ -11,7 +11,7 @@ And WordPress is my topmost choice to build websites with Divi and Elementor
 ✔ WooCommerce, eCommerce Development <br/>
 ✔ Website Security Management <br/>
 ✔ WordPress Site Migration <br/>
-✔ Partial Script Writing (JS and PHP) <br/>
+✔ Script Writing (JS and PHP) <br/>
 ✔ Bug fixing (JS and PHP) <br/>
 ✔ Domain and Hosting Configuration <br/>
 ✔ Graphic Design, Logo Design, Photo Editing <br/>
