@@ -1,5 +1,4 @@
-I am a 
-# Full Stack Web Developer
+# I am a Full Stack Web Developer
 
 I lvoe to work with MERN stack and extremely like Reactjs 
 
