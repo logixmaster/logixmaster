@@ -1,6 +1,6 @@
 # I am a Full Stack Web Developer
 
-I lvoe to work with MERN stack and extremely like Reactjs 
+I love to work with MERN stack and extremely like Reactjs 
 
 And WordPress is my topmost choice to build websites with Divi and Elementor 
 
