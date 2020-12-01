@@ -37,7 +37,7 @@ Expertise in JavaScript (MERN Stack) and WordPress Development, and Full Service
 ✔ Git, GitHub
 
 ------------------------------------------------------------------------------------------
-✔ Photoshop, and Illustrator.
+✔ Photoshop, and Illustrator <br/>
 ✔ SEO, SMM, Content Writing
 
 ------------------------------------------------------------------------------------------
