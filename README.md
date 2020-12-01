@@ -1,8 +1,5 @@
-# I am a Full Stack Web Developer
-
-I love to work with MERN stack and extremely like Reactjs 
-
-And WordPress is my topmost choice to build websites with Divi and Elementor 
+# I am a Full Stack Web Developer and a Digital Marketer. <br/> 
+Expertise in JavaScript (MERN Stack) and WordPress Development, and Full Service Digital Marketing.
 
 ## ✦ My Services ✦
 
