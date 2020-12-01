@@ -11,8 +11,11 @@ Expertise in JavaScript (MERN Stack) and WordPress Development, and Full Service
 ✔ Script Writing (JS and PHP) <br/>
 ✔ Bug fixing (JS and PHP) <br/>
 ✔ Domain and Hosting Configuration <br/>
-✔ Graphic Design, Logo Design, Photo Editing <br/>
+✔ Social Media Marketing (SMM) <br/>
+✔ Email Marketing <br/>
+✔ Search Engine Optimization (SEO) <br/>
 ✔ Content writing (English) <br/>
+✔ Graphic Design, Logo Design, Banner Design, Photo Editing <br/>
 
 ----------------------------------------------------------------------------------------
 
@@ -35,6 +38,7 @@ Expertise in JavaScript (MERN Stack) and WordPress Development, and Full Service
 
 ------------------------------------------------------------------------------------------
 ✔ Photoshop, and Illustrator.
+✔ SEO, SMM, Content Writing
 
 ------------------------------------------------------------------------------------------
 
