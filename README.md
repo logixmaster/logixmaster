@@ -1,5 +1,5 @@
 I am a
-##  Full Stack JavaScript Developer | WordPress Developer <br/> 
+##  Full Stack JavaScript Developer | WordPress Web Developer <br/> 
 
 ## ✦ My Services ✦
 
