@@ -19,17 +19,21 @@ I am a
 
 ----------------------------------------------------------------------------------------
 
-
-## ✦ My Top Skills ✦
-
 ✔ Node.js, Express.js, React.js, MongoDB <br/>
-✔ React Native, -Expo, React Native Elements <br/>
-✔ APIs & Microservices <br/>
+✔ React Native, -Expo, React Native Elements, NativeBase <br/>
 ✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
-✔ Passport.js, Helmet.js, Chai.js, D3.js <br/>
+✔ Next.js, Passport.js, Helmet.js, Chai.js, D3.js <br/>
+
+----------------------------------------------
+
+✔ APIs & Microservices <br/>
+✔ Responsive Web Design <br/>
+✔ Algorithm and Data Structures <br/>
+✔ Data Visualizaton<br/>
+✔ Front End Development <br/>
+✔ Back End Development <br/>
 ✔ Information Security <br/>
 ✔ Quality Assurance<br/>
-✔ Data Visualizaton<br/>
 ✔ Git, GitHub
 
 ------------------------------------------------------------------------------------------
