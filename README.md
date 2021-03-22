@@ -5,49 +5,43 @@ I am Shaikh Mamun. I am a Full Stack Developer from Bangladesh highly experience
 You are most welcome to contact me for any of my services. I provide high-quality services. Satisfaction is always guaranteed.
 
 
-## ✦ My Services ✦
 
-✔ Full Stack Web Development <br/>
-✔ Mobile App Development <br/>
-✔ WordPress Website Development <br/>
-✔ WooCommerce, eCommerce Development <br/>
-✔ Website Security Management <br/>
-✔ WordPress Site Migration <br/>
-✔ Bug fixing (JavaScript) <br/>
-✔ Domain and Hosting Configuration <br/>
-✔ Social Media Marketing (SMM) <br/>
-✔ Email Marketing <br/>
-✔ Search Engine Optimization (SEO) <br/>
-✔ Content writing (English) <br/>
-✔ Graphic Design, Logo Design, Banner Design, Photo Editing <br/>
-
+✦ MY SERVICES ✦
+--------------------------------------------------------------------------------------
+✔ Full Stack Web Development
+✔ Android App Development
+✔ WordPress Website Development
+✔ WooCommerce, eCommerce Development
+✔ Website Security Management
+✔ WordPress Site Migration 
+✔ Domain and Hosting Configuration
+✔ Graphic Design, Logo Design, Photo Editing
+✔ Content writing (English and Bangla only)
 ----------------------------------------------------------------------------------------
 
-✔ Node.js, Express.js, React.js, MongoDB <br/>
-✔ React Native, -Expo, React Native Elements, NativeBase <br/>
-✔ Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
-✔ Next.js, Passport.js, Helmet.js, Chai.js, D3.js <br/>
 
-----------------------------------------------
-
-✔ APIs & Microservices <br/>
-✔ Responsive Web Design <br/>
-✔ Algorithm and Data Structures <br/>
-✔ Data Visualizaton<br/>
-✔ Front End Development <br/>
-✔ Back End Development <br/>
-✔ Information Security <br/>
-✔ Quality Assurance<br/>
+✦ MY TOP SKILLS ✦
+-----------------------------------------------------------------------------------------
+✔ React.js, Node.js, Express.js, MongoDB (MERN Stack)
+✔ React Native, React-Native-Elements, NativeBase
+✔ APIs & Microservices
+✔  Bootstrap, jQuery, HTML5, CSS3, JavaScript
+✔ Chai.js, Passport.js, Helmet.js, D3.js
 ✔ Git, GitHub
-
 ------------------------------------------------------------------------------------------
-✔ WordPress, PHP, MySQL, WooCommerce <br/>
-✔ WordPress Website Security & Firewall <br/>
-✔ Website Page Builder (Divi, Elementor) <br/>
-
+✔ WordPress, PHP, MySQL, phpMyAdmin, WooCommerce
+✔ WordPress Website Security & Firewall
+✔ Website Page Builder (Divi, Elementor)
 ------------------------------------------------------------------------------------------
-✔ Photoshop, and Illustrator <br/>
-✔ SEO, SMM, Content Writing
-
+✔ Photoshop, and Illustrator. 
 ------------------------------------------------------------------------------------------
 
+
+✦ I AM COMMITTED TO PROVIDE ✦
+------------------------------------------------------------------------------------------
+✔ On time project delivery
+✔ High quality service
+✔ High satisfaction
+------------------------------------------------------------------------------------------
+
+Many thanks  and wish you a great day! 
