@@ -9,15 +9,15 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 ✦ MY SERVICES ✦
 --------------------------------------------------------------------------------------
 
-✔ Full Stack Web Development
-✔ Android App Development
-✔ WordPress Website Development
-✔ WooCommerce, eCommerce Development
-✔ Website Security Management
-✔ WordPress Site Migration 
-✔ Domain and Hosting Configuration
-✔ Graphic Design, Logo Design, Photo Editing
-✔ Content writing (English and Bangla only)
+✔ Full Stack Web Development <br/>
+✔ Android App Development <br/>
+✔ WordPress Website Development <br/>
+✔ WooCommerce, eCommerce Development <br/>
+✔ Website Security Management <br/>
+✔ WordPress Site Migration  <br/>
+✔ Domain and Hosting Configuration <br/>
+✔ Graphic Design, Logo Design, Photo Editing <br/>
+✔ Content writing (English and Bangla only) <br/>
 
 ----------------------------------------------------------------------------------------
 
@@ -25,20 +25,20 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 ✦ MY TOP SKILLS ✦
 -----------------------------------------------------------------------------------------
 
-✔ React.js, Node.js, Express.js, MongoDB (MERN Stack)
-✔ React Native, React-Native-Elements, NativeBase
-✔ APIs & Microservices
-✔  Bootstrap, jQuery, HTML5, CSS3, JavaScript
-✔ Chai.js, Passport.js, Helmet.js, D3.js
-✔ Git, GitHub
+✔ React.js, Node.js, Express.js, MongoDB (MERN Stack) <br/>
+✔ React Native, React-Native-Elements, NativeBase <br/>
+✔ APIs & Microservices <br/>
+✔  Bootstrap, jQuery, HTML5, CSS3, JavaScript <br/>
+✔ Chai.js, Passport.js, Helmet.js, D3.js <br/>
+✔ Git, GitHub <br/>
 
 ------------------------------------------------------------------------------------------
-✔ WordPress, PHP, MySQL, phpMyAdmin, WooCommerce
-✔ WordPress Website Security & Firewall
-✔ Website Page Builder (Divi, Elementor)
+✔ WordPress, PHP, MySQL, phpMyAdmin, WooCommerce <br/>
+✔ WordPress Website Security & Firewall <br/>
+✔ Website Page Builder (Divi, Elementor) <br/>
 
 ------------------------------------------------------------------------------------------
-✔ Photoshop, and Illustrator. 
+✔ Photoshop, and Illustrator. <br/>
 
 ------------------------------------------------------------------------------------------
 
@@ -46,9 +46,9 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 ✦ I AM COMMITTED TO PROVIDE ✦
 ------------------------------------------------------------------------------------------
 
-✔ On time project delivery
-✔ High quality service
-✔ High satisfaction
+✔ On time project delivery <br/>
+✔ High quality service <br/>
+✔ High satisfaction <br/>
 
 ------------------------------------------------------------------------------------------
 
