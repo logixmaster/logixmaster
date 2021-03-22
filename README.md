@@ -7,7 +7,6 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 
 
 ## ✦ MY SERVICES ✦
---------------------------------------------------------------------------------------
 
 ✔ Full Stack Web Development <br/>
 ✔ Android App Development <br/>
@@ -19,10 +18,9 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 ✔ Graphic Design, Logo Design, Photo Editing <br/>
 ✔ Content writing (English and Bangla only) <br/>
 
-----------------------------------------------------------------------------------------
 
 ## ✦ MY TOP SKILLS ✦
------------------------------------------------------------------------------------------
+
 
 ✔ React.js, Node.js, Express.js, MongoDB (MERN Stack) <br/>
 ✔ React Native, React-Native-Elements, NativeBase <br/>
@@ -43,7 +41,6 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 
 
 ## ✦ I AM COMMITTED TO PROVIDE ✦
-------------------------------------------------------------------------------------------
 
 ✔ On time project delivery <br/>
 ✔ High quality service <br/>
