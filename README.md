@@ -6,7 +6,7 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 
 
 
-✦ MY SERVICES ✦
+## ✦ MY SERVICES ✦
 --------------------------------------------------------------------------------------
 
 ✔ Full Stack Web Development <br/>
@@ -21,7 +21,7 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 
 ----------------------------------------------------------------------------------------
 
-✦ MY TOP SKILLS ✦
+## ✦ MY TOP SKILLS ✦
 -----------------------------------------------------------------------------------------
 
 ✔ React.js, Node.js, Express.js, MongoDB (MERN Stack) <br/>
@@ -42,7 +42,7 @@ You are most welcome to contact me for any of my services. I provide high-qualit
 ------------------------------------------------------------------------------------------
 
 
-✦ I AM COMMITTED TO PROVIDE ✦
+## ✦ I AM COMMITTED TO PROVIDE ✦
 ------------------------------------------------------------------------------------------
 
 ✔ On time project delivery <br/>
