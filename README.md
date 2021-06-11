@@ -1,6 +1,6 @@
 # I am a Full Stack JavaScript Developer
 
-## Providing Services
+## Providing Services and Solution for
 
 ✔ Full Stack Web Development <br/>
 ✔ Android App Development <br/>
@@ -33,7 +33,7 @@
 ------------------------------------------------------------------------------------------
 
 
-### ✦ MY PROFILE LINKS ✦ 
+### ✦ My other profile links ✦ 
 Follow / Connect me with:
 
 * Linkedin : [https://linkedin.com/in/tradecoder](https://linkedin.com/in/tradecoder)
