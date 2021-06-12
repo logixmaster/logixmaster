@@ -1,5 +1,3 @@
-# I am a Full Stack Web and Mobile App Developer
-
 ## Providing Services and Solution for
 
 ✔ Full Stack Web Development <br/>
