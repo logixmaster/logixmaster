@@ -31,8 +31,7 @@
 ------------------------------------------------------------------------------------------
 
 
-### ✦ My other profile links ✦ 
-Follow / Connect me with:
+### Follow / Connect me with
 
 * Linkedin : [https://linkedin.com/in/tradecoder](https://linkedin.com/in/tradecoder)
 * Dev Community : [https://dev.to/tradecoder](https://dev.to/tradecoder)
