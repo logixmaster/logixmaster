@@ -1,3 +1,3 @@
-# Providing Digital Services
+# Digital Service Provider
 
-## Building Web and Mobile Apps
+## Building Websites and Mobile Apps
