@@ -1,6 +1,6 @@
-# Full Stack Developer, Mentor, and Digital Creator
+# Software Engineer, Mentor, and Digital Creator
 
-## Building Websites, Mobile Apps, Creating Video Contents, and Teaching students
+## Building Websites, Mobile Apps, Creating Video Contents, and Teaching Students
 
 ### Founder, CYBERKING IT
 
